@@ -4,6 +4,6 @@
 -Ben Giangrasso  
 
 ### Tasks: 
-html/css/php: primarily Tuhina  
-php/connecting front end and back end: primarily Ben  
-database: primarily Brooke  
+form1 and login user page: Tuhina  
+application to graduation: Ben  
+faculty advisor review and permissions: Brooke  
